@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 25 Nov 2021 14:39:23 at https://generat0r.cc/3cf04da +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://generat0r.cc/3cf04da -O1 "C:\My Web Sites\pubg uc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:39:25	Warning: 	Note: due to https://generat0r.cc remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 9 links scanned, 8 files written (478922 bytes overall) [437249 bytes received at 87449 bytes/sec], 67961 bytes transferred using HTTP compression in 1 files, ratio 30%, 1.2 requests per connection
+(No errors, 1 warnings, 0 messages)
